@@ -1,15 +1,15 @@
 {
  "date": "2026-09-29",
- "done": 3,
+ "done": 4,
  "need": 5,
- "missing": "허리, 저녁",
- "check": "기록 3/5 · 미입력: 허리, 저녁",
- "intake": 904,
+ "missing": "허리",
+ "check": "기록 4/5 · 미입력: 허리",
+ "intake": 1684,
  "budget": 1874,
- "remaining": 970,
- "protein": 82,
+ "remaining": 190,
+ "protein": 138,
  "proteinTarget": 160,
- "proteinLeft": 78,
+ "proteinLeft": 22,
  "restBudget": 1474,
- "updated": "09/29 18:59"
+ "updated": "09/29 19:19"
 }
